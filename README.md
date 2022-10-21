@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IMGROOT2!
+- 👋 Hi, I’m IMGROOT2!
 - 👀 I love baking, playing tennis and the piano, and working through coding problems.
 - 🌱 I'm an 8th grader in Austin, Texas.
 - 📫 Message me on Discord: IMGROOT2#4860. Please let me know why you want to contact me, or else I might block you 🤷‍♂️
