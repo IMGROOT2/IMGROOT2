@@ -3,7 +3,7 @@
 - 🌱 I'm an 8th grader in Austin, Texas.
 - 📫 Message me on Discord: IMGROOT2#4860. Please let me know why you want to contact me, or else I might block you 🤷‍♂️
 - 🌎 I'm a GitHub Global Campus student!
-- 💻 Atom, VS Code, IntelliJ Ultimate (Mostly Java)
+- 💻 Atom - dead now (😔), VS Code (🤨), JetBrains IntelliJ (😎) and WebStorm (🤩)
 - ⚡ Something really cool about me is that I'm left handed, but it's just not practical sometimes!
 
 <!---
