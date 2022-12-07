@@ -1,3 +1,9 @@
+<div align="center">
+  <h1>IMGROOT2 (Ruhan)</h1>
+  <h6>Student, developer, and problem solver from Austin, Texas.</h6>
+  <img src="https://github-readme-stats.vercel.app/api?username=IMGROOT2&hide=stars&count_private=true&show_icons=true&theme=algolia">
+</div>
+
 - 👋 Hi, I’m IMGROOT2!
 - 👀 I love baking, playing tennis and the piano, and working through coding problems.
 - 🌱 I'm an 8th grader in Austin, Texas.
