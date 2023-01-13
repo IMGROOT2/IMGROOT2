@@ -2,7 +2,7 @@
 <div align="center">
   <h1>IMGROOT2 (Ruhan)</h1>
   <p>Student, developer, and problem solver from Austin, Texas.<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=IMGROOT2&hide=stars&count_private=true&show_icons=true&theme=algolia">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IMGROOT2&hide=stars&count_private=true&show_icons=true&theme=algolia"> 
 </div>
 <br>
 <ul>
