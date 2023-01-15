@@ -8,7 +8,6 @@
 <ul>
 <li> 👋 Hi, I’m IMGROOT2! </li>
 <li> 👀 I love baking, playing tennis and the piano, and working through coding problems. </li>
-<li> 🌱 I'm an 8th grader in Austin, Texas. </li>
 <li> 📫 Message me on Discord: IMGROOT2#4860. Please let me know why you want to contact me, or else I might block you 🤷‍♂️ </li>
 <li> 🌎 I'm a GitHub Global Campus student! </li>
 <li> 💻 Atom - dead now (😔), VS Code (🤨), JetBrains IntelliJ (😎) and WebStorm (🤩) </li>
