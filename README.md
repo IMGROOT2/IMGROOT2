@@ -8,9 +8,9 @@
 <h2>🙌 About Me</h2>
 <ul>
 <li> 👀 I love baking, playing tennis and the piano, and working through coding problems. </li>
-<li> 📫 Message me on Discord: IMGROOT2#4860. Please let me know why you want to contact me, or else I might block you 🤷‍♂️ </li>
+<li> 📫 Feel free to message me on Discord, <code>IMGROOT2#4860</code>. </li>
 <li> 🌎 I'm a GitHub Global Campus student! </li>
-<li> 💻 Atom - dead now (😔), VS Code (🤨), JetBrains IntelliJ (😎) and WebStorm (🤩) </li>
+<li> 💻 JetBrains Webstorm, IntelliJ, VS Code, Gitpod, and Replit. </li>
 <li> ⚡ Something really cool about me is that I'm left handed, but it's just not practical sometimes! </li>
 </ul>
 
