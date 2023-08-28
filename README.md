@@ -19,11 +19,12 @@
 <br>
 <h2>🛠️ Languages</h2>
 <br>
-<ul> <!--- I know this isn't a list, but I need to align these icons lol --->
+<ul> <!--- I know this isn't a list, but I need to align these icons --->
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height=40>
 </ul>
 <br>
 <h2>🎨 Frameworks, UI Kits</h2>
@@ -41,6 +42,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" height=40>
 <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" height=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height=40>
 </ul>
 
 
