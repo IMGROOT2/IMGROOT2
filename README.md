@@ -1,50 +1,47 @@
 <!--Are you looking at my README code? Hmm...-->
 <div align="center">
-  <h1>👋 Hi, I'm Ruhan!</h1>
-  <p>I'm a student and developer from Austin, Texas.<p>
+  <a href="https://ruhangupta.com">
+  <div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=3D7CF7&duration=0.1&center=true&vCenter=true&repeat=false&width=435&lines=R+U+H+A+N+%7C+G+U+P+T+A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=3D7CF7&center=true&pause=100&vCenter=true&repeat=true&width=435&lines=I+don't+write+words+.+.+.;I+write+code.+%F0%9F%92%BB" alt="Typing SVG" />
+  </div>
+  </a>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMGROOT2&theme=transparent">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMGROOT2&theme=transparent">
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMGROOT2&theme=transparent"> -->
 </div>
 <br>
-<h2>🙌 About Me</h2>
-<ul>
-<li> 👀 I love baking, playing tennis and the piano, and solving coding problems. </li>
-<li> 📫 Feel free to message me on Discord at <code>@ruhangupta</code>. </li>
-<li> 🌎 I'm a GitHub Global Campus student! </li>
-<li> 💻 JetBrains Webstorm, IntelliJ IDEA, VS Code, Gitpod, and Replit. </li>
-<li> ⚡ Something cool about me is that I'm left-handed! </li>
-</ul>
-
+<pre>
+const ruhan = {
+    "name": "Ruhan Gupta",
+    "pronouns": ["he", "him", "his"],
+    "location": "Austin, TX, United States",
+    "codingSince": "2nd Grade",
+    "passions": ["piano", "tennis", "computer science", "baking", "poetry", "photography"],
+    "languages_tools_frameworks": "See below!",
+    "websites": {
+        "Algo": "https://algousaco.com",
+        "Portfolio Website": "https://ruhangupta.com",
+        "Vocabustudy": "https://vocabustudy.org"
+    },
+    "fun_fact": "I'm left handed! However, it's not the best for playing the piano...",
+    "contact": "@ruhangupta on Discord"
+}
+</pre>
 <br>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D7CF7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages%2C+Frameworks%2C+and+Tools" alt="Typing SVG" />
+</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,sass,pug,nodejs,vuejs,tailwind,firebase,github,git,vscode,idea,replit,atom,discord,vercel,vite&perline=5" />
+</p>
 <br>
-<h2>🛠️ Languages</h2>
-<br>
-<ul> <!--- I know this isn't a list, but I need to align these icons --->
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height=40>
-</ul>
-<br>
-<h2>🎨 Frameworks, UI Kits</h2>
-<br>
-<ul>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height=40> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" height=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height=40>
-</ul>
-<br>
-<h2>💻 IDEs & Other Tools</h2>
-<br>
-<ul>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" height=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" height=40>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height=40>
-</ul>
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=3D7CF7&center=true&vCenter=true&repeat=false&width=435&lines=Contact+me!;%40ruhangupta+on+Discord" alt="Typing SVG" />
+<a href="https://discordapp.com/users/698961308506390568">
+	<div>
+    <img src="https://skillicons.dev/icons?i=discord" />
+	</div>
+  </a>
+</div>
 
 <img src="https://hit.yhype.me/github/profile?user_id=116324098">
