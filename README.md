@@ -32,7 +32,7 @@ const ruhan = {
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D7CF7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages%2C+Frameworks%2C+and+Tools" alt="Typing SVG" />
 </div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,sass,pug,nodejs,vuejs,tailwind,firebase,github,git,vscode,idea,replit,atom,discord,vercel,vite&perline=5" />
+    <img src="https://skillicons.dev/icons?i=atom,discord,html,css,js,sass,git,java,python,pug,nodejs,vuejs,tailwind,firebase,github,vscode,idea,replit,vercel,vite&perline=5" />
 </p>
 <br>
 <div align="center">
