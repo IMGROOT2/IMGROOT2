@@ -10,23 +10,7 @@
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMGROOT2&theme=transparent"> -->
 </div>
 <br>
-<pre>
-const ruhan = {
-    "name": "Ruhan Gupta",
-    "pronouns": ["he", "him", "his"],
-    "location": "Austin, TX, United States",
-    "codingSince": "2nd Grade",
-    "passions": ["piano", "tennis", "computer science", "baking", "poetry", "photography"],
-    "languages_tools_frameworks": "See below!",
-    "websites": {
-        "Algo": "https://algousaco.com",
-        "Portfolio Website": "https://ruhangupta.com",
-        "Vocabustudy": "https://vocabustudy.org"
-    },
-    "fun_fact": "I'm left handed! However, it's not the best for playing the piano...",
-    "contact": "@ruhangupta on Discord"
-}
-</pre>
+<img src="https://github.com/IMGROOT2/IMGROOT2/blob/main/ray-so-export.png?raw=true" alt="Ruhan code"
 <br>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D7CF7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages%2C+Frameworks%2C+and+Tools" alt="Typing SVG" />
