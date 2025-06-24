@@ -1,4 +1,7 @@
 <!-- hi! -->
+<div align="left">
+  <img src="https://github.com/IMGROOT2/IMGROOT2/blob/main/ruhangupta.png?raw=true" width="400px" />
+</div>
   <p>Hi! Welcome to my GitHub page. A ton of my repositories are private; I'm constantly building new things, so I'll keep unlocking things for the world to see every now and then. :)</p>
   <p>Check out my website, <a href="https://ruhangupta.com">ruhangupta.com</a>!</p>
 <div align="center">
