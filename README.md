@@ -1,21 +1,19 @@
-<!-- hi! -->
-<div align="left">
-  <img src="https://github.com/IMGROOT2/IMGROOT2/blob/main/ruhangupta.png?raw=true" width="400px" />
-</div>
-  <p>Hi! Welcome to my GitHub page. A ton of my repositories are private; I'm constantly building new things, so I'll keep unlocking things for the world to see every now and then. :)</p>
-  <p>Check out my website, <a href="https://ruhangupta.com">ruhangupta.com</a>!</p>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMGROOT2&theme=transparent">
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMGROOT2&theme=transparent"> -->
-</div>
-<!-- <br>
-<img src="https://github.com/IMGROOT2/IMGROOT2/blob/main/ray-so-export.png?raw=true" alt="Ruhan code"
-<br>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D7CF7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages%2C+Frameworks%2C+and+Tools" alt="Typing SVG" />
-</div> -->
-<p align="center">
+
+  <img src="https://github.com/IMGROOT2/IMGROOT2/blob/main/ruhangupta.png?raw=true" width="800px" />
+
+  <b>I'm a high school student from Austin, TX, building projects that make real change. <a href="https://ruhangupta.com">ruhangupta.com</a></b>
+  <br>
+  <br>
+  <p>I'm always interested in new opportunities. Send me an email at <b><a href="mailto:ruhan_gupta@outlook.com">ruhan_gupta@outlook.com</a></b>!</p>
+  <br>
+  <details>
+    <summary>GitHub Stats</summary>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMGROOT2&theme=transparent">
+  </details>
+  <br>
+  <details>
+    <summary>Tools, Frameworks, etc.</summary>
     <img src="https://skillicons.dev/icons?i=atom,discord,html,css,js,sass,git,java,python,pug,nodejs,vuejs,tailwind,firebase,github,vscode,idea,replit,vercel,vite&perline=5" />
-</p>
+  </details>
 <br>
 <img src="https://hit.yhype.me/github/profile?user_id=116324098">
