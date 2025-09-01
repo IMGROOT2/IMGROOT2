@@ -1,5 +1,5 @@
 
-  <img src="https://github.com/IMGROOT2/IMGROOT2/blob/main/ruhangupta.png?raw=true" width="400px" />
+  <img src="https://github.com/IMGROOT2/IMGROOT2/blob/main/ruhangupta.png?raw=true" width="800px" />
 
   <h3><b>austin, tx | <a href="https://ruhangupta.com">ruhangupta.com</a></b></h3>
   <p><b>email me with opportunities! → <b><a href="mailto:ruhan_gupta@outlook.com">ruhan_gupta@outlook.com</a></b></b></p>
